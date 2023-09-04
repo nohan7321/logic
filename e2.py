@@ -8,8 +8,9 @@ def process_item(item):
     print("Thread: Processing item " + str(item))
 
 
+
 # Create a list of items
-item_list = [5, 5, 1, 4, 1]
+item_list = [5, 5, 1, 4, 1, 7, 9, 12]
 
 # Create Thread objects for each item in the list
 threads = []
